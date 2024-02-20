@@ -1,0 +1,16 @@
+*{font-family:Arial, Helvetica, sans-serif;}
+section{padding: 8px; border-style: dotted; border-width: 2px; border-radius: 10px; border-color: black; padding-left: 15px; padding-right: 15px;}
+#content{width: 80%; height: 100%; margin: auto; background-color: white;}
+#content>*{margin: 10px;}
+#sect1{background-color: lightblue; }
+#sect2{background-image:url("./images/YouTube_logo.jpg"); background-size: contain; background-position: 0%; background-repeat: repeat;}
+#sect3{background-color:bisque;}
+#sect4{background-color:cornsilk;}
+h1{margin-left: 5%; margin-right: 5%;}
+h3{color:chocolate; font-style: italic;}
+body{background-color:#d9d9d9; margin: 0px; padding: 0px;}
+a{text-decoration: none; transition: color 2s; font-weight: bold;}
+a:hover{text-decoration: underline; color: red;}
+aside{float: left; background-color: white; padding: 5px;}
+footer{float: right; font-size: larger;}
+li:hover{background-color: red;}
